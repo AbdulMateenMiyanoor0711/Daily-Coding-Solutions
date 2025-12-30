@@ -1,4 +1,4 @@
-# Hi there, I'm Abdul Mateen! 👋
+# Hi there, I'm Abdul Mateen Anis Miyanoor 👋
 
 ### 🎓 Campus Mantri Applicant @GeeksforGeeks
 I am a passionate developer and community leader dedicated to helping students bridge the gap between learning and industry-ready skills. Currently on my journey to represent GeeksforGeeks on campus!
